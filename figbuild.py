@@ -79,9 +79,9 @@ plt.xticks(rotation=90)
 plt.show()
 
 rando = np.random.rand()
-figname = (args.fig_name+'.pdf')
+figname = (args.fig_name+'.png')
 
 #randofigname = (rando+'.pdf')
-plt.savefig(figname, dpi=350, format='pdf', pad_inches=0.1
+plt.savefig(figname, dpi=350, format='png', pad_inches=0.1
 )
 exit()
