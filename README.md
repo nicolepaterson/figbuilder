@@ -1,5 +1,5 @@
 # figbuilder
-Plots SNPs onto domain architecture map for major Flu antigens HA and NA.
+Plots SNPs as black lines onto domain architecture map for major Flu antigens HA and NA.
 
 
 
