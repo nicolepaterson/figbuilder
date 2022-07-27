@@ -1,5 +1,5 @@
 # figbuilder
-Plots SNPs (black lines) onto domain architecture map of major Flu antigen hemagglutinin.
+Plots SNPs (black lines) onto domain architecture map of major influenza antigen hemagglutinin.
 
 ```create and activate conda environment:
 conda create -n figbuild python=3.10 numpy matplotlib
