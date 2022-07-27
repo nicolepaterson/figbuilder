@@ -2,7 +2,7 @@
 Plots SNPs (black lines) onto domain architecture map of major influenza antigen hemagglutinin.
 
 ```create and activate conda environment:
-conda create -n figbuild python=3.10 numpy matplotlib
+conda create -n figbuild python=3.10 numpy matplotlib argparse
 conda activate figbuild
 usage: python figbuild.py -l 56 345 545 -f fig_name
 ```
